@@ -1,0 +1,16 @@
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\bin\Debug\net5.0\ExercicioQuartoCincoSeis.exe
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\bin\Debug\net5.0\ExercicioQuartoCincoSeis.deps.json
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\bin\Debug\net5.0\ExercicioQuartoCincoSeis.runtimeconfig.json
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\bin\Debug\net5.0\ExercicioQuartoCincoSeis.runtimeconfig.dev.json
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\bin\Debug\net5.0\ExercicioQuartoCincoSeis.dll
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\bin\Debug\net5.0\ref\ExercicioQuartoCincoSeis.dll
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\bin\Debug\net5.0\ExercicioQuartoCincoSeis.pdb
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ExercicioQuartoCincoSeis.csproj.AssemblyReference.cache
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ExercicioQuartoCincoSeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ExercicioQuartoCincoSeis.AssemblyInfoInputs.cache
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ExercicioQuartoCincoSeis.AssemblyInfo.cs
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ExercicioQuartoCincoSeis.csproj.CoreCompileInputs.cache
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ExercicioQuartoCincoSeis.dll
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ref\ExercicioQuartoCincoSeis.dll
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ExercicioQuartoCincoSeis.pdb
+C:\Users\LHAA\Documents\Code\ExercicioQuartoCincoSeis\obj\Debug\net5.0\ExercicioQuartoCincoSeis.genruntimeconfig.cache
